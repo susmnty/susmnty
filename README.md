@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A Student in Btech from India.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/susmnty/Susmnty/assets/133086628/cf93543d-e386-437b-84fe-79d0026d2829)">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1UrQezxrQ0CVE7P4eNMg8s&ust=1685620767896000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjS3oPBn_8CFQAAAAAdAAAAABAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmnty&label=Profile%20views&color=0e75b6&style=flat" alt="susmnty" /> </p>
 
