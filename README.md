@@ -6,13 +6,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=susmnty&label=Profile%20views&color=0e75b6&style=flat" alt="susmnty" /> </p>
 
-                                              Get a drink to be an impression 🥃
+                                   Get a drink to be an impression 🥃
                                          
-                                  🌱 I’m currently learning Courses - multi including business.
+                        🌱 I’m currently learning Courses - multi including business.
 
-                                             📫 Contact me - spkusmnty@gmail.com
+                                  📫 Contact me - spkusmnty@gmail.com
 
-                                                 ⚡ Fun fact - An Overthinker.
+                                         ⚡ Fun fact - An Overthinker.
 
 
 <h3 align="left">Connect with me:</h3>
