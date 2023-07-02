@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=susmnty&label=Profile%20views&color=0e75b6&style=flat" alt="susmnty" /> </p>
 
-                                        Get a drink to be an impression 🥃
+                                         Get a drink to be an impression 🥃
                                          
                             🌱 I’m currently learning Courses - multi including business.
 
