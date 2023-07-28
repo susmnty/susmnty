@@ -8,7 +8,7 @@
 
                                                     Get a drink to be an impression 🥃
                                          
-                                          🌱 I’m currently learning Courses - multi including business.
+                                        🌱 I’m currently learning Comp Science, including business.
 
                                                   📫 Contact me - spkusmnty@gmail.com
                                                    
