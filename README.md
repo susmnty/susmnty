@@ -19,5 +19,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/smnty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smnty" height="30" width="40" /></a>
 <a href="https://instagram.com/sonusmnty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonusmnty" height="30" width="40" /></a>
-<a href="https://discord.gg/sonusmnty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sonusmnty" height="30" width="40" /></a>
 </p>
