@@ -12,7 +12,7 @@
 
                                                   📫 Contact me - spkusmnty@gmail.com
                                                    
-                                                       ⚡ Fun fact - An Overthinker.
+                                                      ⚡ Fun fact - An Overthinker.
 
 
 <h3 align="left">Connect with me:</h3>
