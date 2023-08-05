@@ -8,7 +8,7 @@
 
                                                     Get a drink to be an impression 🥃
                                          
-                                        🌱 I’m currently learning Comp Science, including business.
+                                                       🌱 I’m currently in Btech.
 
                                                   📫 Contact me - spkusmnty@gmail.com
                                                    
