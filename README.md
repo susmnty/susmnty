@@ -1,7 +1,7 @@
 # Greetings 🙏, I am Priyansu Samantray
 
 <div align="left">
-   <h2><strong>Web Developer | Software Developer</strong>
+   <h2><strong>Web Developer | Data Analyst | Software Developer</strong>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 </div>
 
