@@ -1,14 +1,14 @@
 # Greetings 🙏, I am Priyansu Samantray
 
 <div align="left">
-   <h2><strong>Web Developer | Data Analyst | Software Developer</strong>
+   <h2><strong>Front-End Developer | Data Analyst | Machine Learning</strong>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 </div>
 
 ### 👨‍💻 About Me:
 - 🌱 Passionate about learning tech and life.
-- 🖥️ Self-taught Web developer.
-- 🌟 Specialized in **web development** using multiple **tools, frameworks, and libraries** (frontend and backend).
+- 🖥️ Self-taught Machine Learning.
+- 🌟 Specialized in **Front-end development** using multiple **tools, frameworks, and libraries** (frontend and backend).
 - 🎯 Focused on delivering **detailed and quality products**.
 
 ---
