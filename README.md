@@ -1,6 +1,6 @@
 <h1 align="center"> Priyansu Samantray - Digital Workshop </h1>
 
-I am a Computer Science & Engineer student who’s all about mixing serious AIML Research with a chill, creative vibe. We work hard, solve tough problems, and still find time to innovate, explore, and have fun while doing it. More about turning complex ideas into real-world solutions - because why not make tech smarter and cooler? I believe in: _“First, solve the problem. Then, write the code.”_ – John Johnson
+I am a Computer Science & Engineer student who’s all about mixing serious AIML Research with a chill, creative vibe. We work hard, solve tough problems, and still find time to innovate, explore, and have fun while doing it. More about turning complex ideas into real-world solutions - because why not make tech smarter and cooler in you ? I believe in: _“First, solve the problem. Then, write the code.”_ – John Johnson
 
 ---
 
