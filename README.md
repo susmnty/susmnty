@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to Priyanshu’s Digital Workshop </h1>
+<h1 align="center"> Priyansu Samantray’s Digital Workshop </h1>
 
 > _“First, solve the problem. Then, write the code.”_ – John Johnson
 
