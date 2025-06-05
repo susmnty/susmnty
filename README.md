@@ -13,7 +13,7 @@
     <!-- Left Column: About Me -->
     <td valign="top" width="60%">
 
-### 👨‍💻 About Me
+### About Me
 
 - 🧬 Machine Learning & Deep Learning | Self taught  
 - 🔁 Passionate Coding  
@@ -67,4 +67,4 @@
 
 - 📫 Gmail: [your@gmail.com](mailto:spkusmnty@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/priyansu12/)
-- 🌐 Codefolio: [susmnty.codefolio](https://codolio.com/profile/sonusmnty) 
+- 👨‍💻 Codefolio: [susmnty.codefolio](https://codolio.com/profile/sonusmnty) 
