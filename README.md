@@ -1,13 +1,8 @@
 <h1 align="center"> Priyansu Samantray - Digital Workshop </h1>
 
-I am a Computer Science & Engineer student who’s all about mixing serious AIML Research with a chill, creative vibe. We work hard, solve tough problems, and still find time to innovate, explore, and have fun while doing it. More about turning complex ideas into real-world solutions - because why not make tech smarter and cooler in you ? I believe in: _“First, solve the problem. Then, write the code.”_ – John Johnson
+> _I believe in: _“First, solve the problem. Then, write the code.”_ – John Johnson_
 
 ---
-
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- Left Column: About Me -->
-    <td valign="top" width="60%">
 
 ### About Me
 
@@ -16,19 +11,6 @@ I am a Computer Science & Engineer student who’s all about mixing serious AIML
 - 🧠 Love building beautiful, interactive UIs with React at basic  
 - 🎨 Front-end styling using HTML & CSS  
 - 🚀 Building AI-powered web experiences – Respo for more details  
-
-    </td>
-
-    <!-- Right Column: GitHub Stats -->
-    <td valign="top" align="center" width="40%">
-
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=susmnty&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=0d1117&hide_border=true" />
-
-   </td>
-  </tr>
-</table>
 
 ---
 
