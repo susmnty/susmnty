@@ -36,15 +36,17 @@
 
 ---
 
-### 🚀 Tech Stack
-
+<p align="center"><b>Tech Stack</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,java" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,docker,vscode,tensorflow,git" />
 </div>
 
 ---
 
-### Stats
+<p align="center"><b>STATS</b></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=susmnty&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
