@@ -1,8 +1,12 @@
 <h1 align="center"> Priyansu Samantray - Digital Workshop </h1>
 
-> _I believe in: _“First, solve the problem. Then, write the code.”_ – John Johnson_
+  > _I believe in: _“First, solve the problem. Then, write the code.”_ – John Johnson_
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Basic+Coder+in+Python;AI%2FML+Engineer;Basic+Frontend+Developer" />
+</p>
 
 ### About Me
 
