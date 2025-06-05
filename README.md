@@ -65,6 +65,6 @@
 
 ### More Info about me -
 
-- 📫 Gmail: [your@email.com](mailto:spkusmnty@gmail.com)
+- 📫 Gmail: [your@gmail.com](mailto:spkusmnty@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/priyansu12/)
 - 🌐 Codefolio: [susmnty.codefolio](https://codolio.com/profile/sonusmnty) 
