@@ -1,12 +1,8 @@
 <h1 align="center"> Priyansu Samantray - Digital Workshop </h1>
 
-> _“First, solve the problem. Then, write the code.”_ – John Johnson
+I am a Computer Science & Engineer student who’s all about mixing serious AIML Research with a chill, creative vibe. We work hard, solve tough problems, and still find time to innovate, explore, and have fun while doing it. More about turning complex ideas into real-world solutions - because why not make tech smarter and cooler? I believe in: _“First, solve the problem. Then, write the code.”_ – John Johnson
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Basic+Coder+in+Python;AI%2FML+Development;Basic+Frontend+Developer" />
-</p>
 
 <table cellspacing="0" cellpadding="0">
   <tr>
