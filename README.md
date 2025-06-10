@@ -1,6 +1,6 @@
 <h1 align="center"> Priyansu Samantray - Digital Workshop </h1>
 
-  > _I believe in: _“First, solve the problem. Then, write the code.”_ – John Johnson_
+
 
 ---
 
