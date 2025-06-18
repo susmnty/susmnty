@@ -33,11 +33,6 @@
   <img src="https://komarev.com/ghpvc/?username=susmnty&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susmnty&theme=tokyonight&hide_border=false&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
 <!-- GitHub Contribution Graph -->
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=susmnty&theme=react&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="susmnty's contribution graph" />
