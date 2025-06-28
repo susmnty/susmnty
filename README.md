@@ -38,7 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=susmnty&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-
 <!-- GitHub Contribution Graph -->
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=susmnty&theme=react&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="susmnty's contribution graph" />
