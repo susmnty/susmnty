@@ -11,7 +11,7 @@
 ### About Me 
 
 - Machine Learning & Deep Learning 
-- more into images and videos like Computer Vision, GAN including Research skills.
+- more into images and videos like Computer Vision, GAN, Cloud Vision API including Research skills.
 - Semi Coding  
 - Love building beautiful, interactive UIs with React at basic  
 - Front-end styling using React.js & CSS
