@@ -29,9 +29,15 @@
 ---
 
 <p align="center"><b>STATS</b></p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=susmnty&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=susmnty&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
