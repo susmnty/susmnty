@@ -10,11 +10,12 @@
 
 ### About Me 
 
-- 🧬 Machine Learning & Deep Learning | Self taught  
-- 🔁 Passionate Coding  
-- 🧠 Love building beautiful, interactive UIs with React at basic  
-- 🎨 Front-end styling using HTML & CSS  
-- 🚀 Building AI-powered web experiences – Respo for more details  
+- Machine Learning & Deep Learning 
+- Semi Coding  
+- Love building beautiful, interactive UIs with React at basic  
+- Front-end styling using React.js & CSS
+- Building AI-powered web experiences 
+– Respo for more details  
 
 ---
 
