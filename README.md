@@ -5,27 +5,25 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Basic+Coder+in+Python;AI+Engineer;Basic+Frontend+Developer;Research+and+Development;ML+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Cpp+Coder;Basic+Coder+in+Python;AI+Engineer;Basic+Frontend+Developer;Research+and+Development;ML+Engineer" />
 </p>
 
 ### About Me 
 
-- Machine Learning & Deep Learning 
-- more into images and videos like Computer Vision, GAN, Cloud Vision API including Research skills.
-- Semi Coding  
-- Love building beautiful, interactive UIs with React at basic  
-- Front-end styling using React.js & CSS
-- Building AI-powered web experiences   
+- Open Source Contributor for RAPIDS at NVIDIA 
+- Semi Coding in C++   
+- Experience in building Agents, generative adversarial network and machine learning models
+- Front-end developer and styling using React including html and frameworks  
 - Respo for more details  
 
 ---
 
 <p align="center"><b>Tech Stack</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,docker,vscode,tensorflow,git" />
+  <img src="https://skillicons.dev/icons?i=docker,tensorflow,git" />
 </div>
 
 ---
