@@ -10,7 +10,7 @@
 
 ### About Me 
 
-- Open Source Contributor for RAPIDS at NVIDIA 
+- Open Source for RAPIDS at NVIDIA 
 - Semi Coding in C++   
 - Experience in building Agents, generative adversarial network and machine learning models
 - Front-end developer and styling using React including html and frameworks  
