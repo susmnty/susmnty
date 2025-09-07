@@ -45,7 +45,7 @@
 
 ---
 
-### More Info about me -
+### More Info about me, click the link -
 
 - 📫 Gmail: [your@gmail.com](mailto:spkusmnty@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/priyansu12/)
